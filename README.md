@@ -17,7 +17,7 @@ Per utilizzare l'applicazione occorre, innanzitutto, scaricare nella Home i file
 
 A questo punto si può aprire il terminale e scrivere i seguenti comandi:
 
-chmod +x Esecuzione_MariannaGiustino.sh
+\textit{chmod +x Esecuzione_MariannaGiustino.sh}
 
 chmod +x Installazione_MariannaGiustino.sh
 
