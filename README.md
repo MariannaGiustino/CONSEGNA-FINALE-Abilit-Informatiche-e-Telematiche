@@ -10,7 +10,7 @@ Questa applicazione Python3 ha lo scopo di analizzare e visualizzare alcuni dei 
 
 ## Istruzioni di installazione ed esecuzione
 
-Per utilizzare l'applicazione occorre, innanzitutto, scaricare i file:
+Per utilizzare l'applicazione occorre, innanzitutto, scaricare nella Home i file:
 - 'Installazione_MariannaGiustino.sh';
 - 'Esecuzione_MariannaGiustino.sh';
 - 'VerificaPython_MariannaGiustino.py'.
