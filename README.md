@@ -21,7 +21,7 @@ chmod +x Esecuzione_MariannaGiustino.sh
 
 chmod +x Installazione_MariannaGiustino.sh
 
-./Installazione_MariannaGiustino
+./Installazione_MariannaGiustino.sh
 
 Questi comandi assegneranno i permessi di esecuzione agli script ed eseguiranno lo script di intallazione. Se tutto è andato a buon fine, verrà stampato il messaggio: "Installazione completata. L'applicazione può essere eseguita con il comando 'Esecuzione_MariannaGiustino.sh'.". Dunque, si avvia l'applicazione scrivendo il comando:
 
