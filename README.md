@@ -10,12 +10,12 @@ Questa applicazione Python3 ha lo scopo di analizzare e visualizzare alcuni dei 
 
 ## Istruzioni di installazione ed esecuzione
 
-Per utilizzare l'applicazione occorre, innanzitutto, scaricare nella Home i file:
+Per utilizzare l'applicazione occorre, innanzitutto, scaricare i file:
 - 'Installazione_MariannaGiustino.sh';
 - 'Esecuzione_MariannaGiustino.sh';
 - 'VerificaPython_MariannaGiustino.py'.
 
-A questo punto si può aprire il terminale e scrivere i seguenti comandi:
+A questo punto si può aprire il terminale dalla cartella in cui sono stati scaricati i file cliccando il tasto destro e selezionando l'opzione 'Open in Terminal'. Si scrivano, dunque, i seguenti comandi:
 
 chmod +x Installazione_MariannaGiustino.sh
 
