@@ -29,4 +29,4 @@ Esecuzione_MariannaGiustino.sh
 
 ## Contatti
 
-In caso di problemi o domande si contatti l'autore del progetto all'indirizzo e-mail: MARIANNA.GIUSTINO@studenti.units.it
+In caso di problemi o domande si contatti l'autrice del progetto all'indirizzo e-mail: MARIANNA.GIUSTINO@studenti.units.it
