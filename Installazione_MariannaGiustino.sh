@@ -11,11 +11,11 @@ cp VerificaPython_MariannaGiustino.py ~/Consegna_AbInfo
 chmod +x ~/Consegna_AbInfo/Esecuzione_MariannaGiustino.sh
 
 # Modifico il PYTHONPATH per includere la directory dell'applicazione
-export PYTHONPATH=~/Consegna_AbInfo:$PYTHONPATH  >> ~/.bashrc 
+echo 'export PYTHONPATH=~/Consegna_AbInfo:$PYTHONPATH'  >> ~/.bashrc 
 source ~/.bashrc
 
 # Modifico il PATH per includere la directory dell'applicazione
-export PATH=~/Consegna_AbInfo:$PATH  >> ~/.bashrc
+echo 'export PATH=~/Consegna_AbInfo:$PATH' >> ~/.bashrc
 source ~/.bashrc
 
 # Stampo un messaggio di installazione completata
