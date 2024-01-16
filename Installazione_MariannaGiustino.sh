@@ -19,4 +19,4 @@ echo 'export PATH=~/Consegna_AbInfo:$PATH' >> ~/.bashrc
 source ~/.bashrc
 
 # Stampo un messaggio di installazione completata
-echo "Installazione completata. L'applicazione può essere eseguita con il comando 'Esecuzione_MariannaGiustino.sh'."
+echo "Installazione completata. L'applicazione può essere eseguita con il comando './Esecuzione_MariannaGiustino.sh'."
